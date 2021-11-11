@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>拾期的树洞</title>
   
-  <subtitle>我的个人博客</subtitle>
+  <subtitle>我的博客</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-09T17:17:19.240Z</updated>
+  <updated>2021-11-10T16:43:20.719Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于&quot;拾期的树洞&quot;</title>
+    <link href="http://example.com/2021/11/10/guan-yu-shi-qi-de-shu-dong/"/>
+    <id>http://example.com/2021/11/10/guan-yu-shi-qi-de-shu-dong/</id>
+    <published>2021-11-10T10:36:06.000Z</published>
+    <updated>2021-11-10T16:43:20.719Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;关于站点的名字&quot;&gt;&lt;a href=&quot;#关于站点的名字&quot; class=&quot;headerlink&quot; title=&quot;关于站点的名字&quot;&gt;&lt;/a&gt;关于站点的名字&lt;/h2&gt;&lt;h3 id=&quot;为什么要叫拾期&quot;&gt;&lt;a href=&quot;#为什么要叫拾期&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="关于我" scheme="http://example.com/categories/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    
+    
+    <category term="关于我" scheme="http://example.com/tags/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2021初雪...</title>
     <link href="http://example.com/2021/11/09/2021-chu-xue/"/>
     <id>http://example.com/2021/11/09/2021-chu-xue/</id>
     <published>2021-11-09T14:52:50.000Z</published>
-    <updated>2021-11-09T17:17:19.240Z</updated>
+    <updated>2021-11-10T16:42:03.128Z</updated>
     
     
       
